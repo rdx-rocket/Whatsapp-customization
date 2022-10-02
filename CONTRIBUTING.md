@@ -6,15 +6,4 @@ Help Others if someone query about your Code.
 
 If your App/Web submissions are different make different folders or make different names for eg:
 
-**Android Submissions**
-  |
-  |--> Example1 {App Submission by exampleuser}
-  |--> Example2 {App Submission by xyzuser}
-              |--> Example2 {App Submission by xyzuser and improved by xyzuser2}
-  |--> Example3 {App Submission by abcuser}
-**Web Submissions**
-  |
-  |--> Example1 {Web_app Submission by exampleuser}
-  |--> Example2 {Web_plugin Submission by xyzuser}
-              |--> Example2 {Web_plugin Submission by xyzuser and improved by xyzuser2}
-  |--> Example3 {Web_app Submission by abcuser}
+![image](https://user-images.githubusercontent.com/72245266/193453434-7a7da470-9031-429f-b4cc-b9d401e3ae42.png)
